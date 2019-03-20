@@ -8,4 +8,7 @@ private void sub() {
 	System.out.println("subtraction");
 
 }
+private void mul() {
+	System.out.println("multiplication");
+}
 }
