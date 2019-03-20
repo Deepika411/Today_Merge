@@ -8,4 +8,8 @@ private void sub() {
 	System.out.println("subtraction");
 
 }
+private void div() {
+	System.out.println("division");
+
+}
 }
